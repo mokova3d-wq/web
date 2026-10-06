@@ -1,0 +1,3 @@
+Mokova3D SEO checklist is built into the site: unique page titles, meta descriptions, robots directives, Open Graph/Twitter metadata, WebPage/Product/FAQ structured data, descriptive image alt text, internal links, and category/product discoverability.
+
+FINAL DOMAIN STEP: once the exact live GitHub Pages/custom-domain URL is known, add absolute canonical URLs and sitemap.xml for that exact domain.
